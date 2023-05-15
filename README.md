@@ -1,7 +1,7 @@
 
 # KSP2023-Selection
 
-
+The following problem statement was given for the selection processs of kritika IIT-B summer projects 2023
 
 The problem statement is given in [Problem_Statement.ipynb](Problem_Statement.ipynb) (which you can view directly in the browser) and the relevant data set is given in [darkmatter.csv](darkmatter.csv). <br>
 
